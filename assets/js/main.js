@@ -249,10 +249,17 @@
 const typedTextSpan = document.querySelector(".typed-text");
 const cursorSpan = document.querySelector(".cursor");
 
+<<<<<<< HEAD
 const textArray = ["Full Stack Developer", "ML Researcher", "Software Engineer"];
 const typingDelay = 200;
 const erasingDelay = 100;
 const newTextDelay = 2000; // Delay between current and next text
+=======
+const textArray = ["Full Stack Development", "AI and ML Research", "Web Development", "Cloud Engineering"];
+const typingDelay = 200;
+const erasingDelay = 100;
+const newTextDelay = 2000; 
+>>>>>>> 4dbd5477c1a174d47500747511ab37cecd633203
 let textArrayIndex = 0;
 let charIndex = 0;
 
@@ -289,4 +296,8 @@ document.addEventListener("DOMContentLoaded", function() { // On DOM Load initia
 });
 
 
+<<<<<<< HEAD
 })()
+=======
+})()
+>>>>>>> 4dbd5477c1a174d47500747511ab37cecd633203
