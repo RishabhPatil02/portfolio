@@ -249,7 +249,7 @@
 const typedTextSpan = document.querySelector(".typed-text");
 const cursorSpan = document.querySelector(".cursor");
 
-const textArray = ["Full Stack Development", "AI and ML Research", "Web Development", "Cloud Engineering"];
+const textArray = ["AI & LLM Systems", "Applied AI @ Meta", "Distributed Systems", "Full Stack Development"];
 const typingDelay = 200;
 const erasingDelay = 100;
 const newTextDelay = 2000; 
